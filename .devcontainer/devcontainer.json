@@ -1,5 +1,5 @@
 {
-  "name": "estacio-devcontainer",
+  "name": "gcc-13-development-container",
   "build": {
     "dockerfile": "Dockerfile"
   },
