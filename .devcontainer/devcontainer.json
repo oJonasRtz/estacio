@@ -1,5 +1,5 @@
 {
-  "name": "gcc-13-development-container",
+  "name": "GCC 13 Development Container",
   "build": {
     "dockerfile": "Dockerfile"
   },
