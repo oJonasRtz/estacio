@@ -9,7 +9,7 @@ typedef struct {
 
 }	t_aluno;
 
-void add_aluno(t_aluno *aluno)
+void add_aluno(t_aluno *aluno,)
 {
 	char* messages[4] = {
 		"| Digite o nome do aluno: ",
@@ -54,6 +54,7 @@ void print_aluno(t_aluno *aluno)
 
 int main(void)
 {
+	co
 	t_aluno aluno;
 	
 	add_aluno(&aluno);
